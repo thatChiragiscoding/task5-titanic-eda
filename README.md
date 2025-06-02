@@ -30,7 +30,7 @@ This project explores the Titanic dataset to uncover patterns and insights about
 
 ## Files
 - `Titanic_EDA.ipynb`: Jupyter Notebook with full analysis code.
-- `cleaned_titanic.csv`: Processed dataset.
+- `titanic.csv`: dataset.
 - `task5report.pdf`: Documented observations in report.
 - `README.md`: Summary.
 
